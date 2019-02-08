@@ -1,5 +1,5 @@
 import java.util.Random;
-
+//Douglas y Andres
 public class Generador {
     public static void main(String[] args) {
         int[] ndigitos = new int[10001];
