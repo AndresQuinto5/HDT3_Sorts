@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"GnomeSort"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"MergeSort"},{"p":"<Unnamed>","l":"QuickSort"},{"p":"<Unnamed>","l":"RadixSort"}]
